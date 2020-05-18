@@ -1,4 +1,4 @@
-
+# Object Detection and Measuring its size
 The project provides a script to read an image and based on the dimensions of a reference object find the dimensions of other objects in a scene. The reference object must be the leftmost object in the scene. In sample images given, a box of dimension 2cm x 2cm is taken as a reference object.
 
 For any other reference object provide actual width of the object. (change in file 'object.py')
